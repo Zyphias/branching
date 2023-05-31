@@ -1,4 +1,4 @@
-# test
+# branching
 A test repo for branching and pulling
 
 ## Some general commands.
