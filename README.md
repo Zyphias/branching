@@ -3,7 +3,9 @@ A test repo for branching and pulling
 
 ## Some general commands.
 git branch -> shows all branches (-v for more detail on them)
+
 git checkout / git switch -> switches between branches
+
 git branch -d *[name]* -> deletes a selected branch
 
 ## Branch Creation
